@@ -1,4 +1,7 @@
 # The UK Bicycle Industry
+
+Your mission, should you choose to accept it is to produce a data visualization about the bicycle industry in the United Kingdom. This time, I want you to create a narrative rather than just a single graph. See my example at the bottom of the page, the code, and various files I used to create this are found in the R folder (above in the list of files). I pulled out a headline number and used clip art I found on the internet to illustrate my visualization, I also used colours and semi-round arrows to keep in theme with wheels!
+
 ## Original Visualization
 ![imported bicycles units](original.png)
 
