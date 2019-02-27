@@ -17,5 +17,7 @@ You must:
 * Edit the graph to be different to the standard generated plot.
 * Create a story to tell (see my example below), and assemble this in a graphics package into a single page visualization. (You could use Powerpoint, Inkscape, Illustrator etc).
 
+## My visualization for inspiration
+
 ![andy visualization](andy.png)
 
